@@ -1,1 +1,1 @@
-# Recipe-site
+This is my very first HTML project. I have made a webiste containing three delicious recipes that again link to a recipe page with full instructions. I have showcased: My ability to make a repository on Github. Clone it to my local machine. Set up boilerplates for variuos sites. link imgaes and direct links to recipes. Fill in the body of html with information. I have also become efficient comitting the changes made along the way. 
